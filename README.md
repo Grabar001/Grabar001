@@ -2,7 +2,7 @@
   <img src="Deadline.gif" alt="Demo">
 </div>
 
-# 👋 Hi there, I'm **Albert**!  
+# 👋 Hi there, I'm **Albert Grabar**!  
 Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves building creative and efficient solutions.
 
 ---
@@ -25,13 +25,16 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 
 ---
 
-## 🌟 **Featured Projects:**
-### 🎨 [Portfolio](https://grabar001.github.io/Portfolio/)
-A modern portfolio website showcasing my work, built with:
-- 💻 React.js
-- 🎨 Tailwind CSS
-- 🔗 Hosted on Vercel
+## 🌟 **<span style="font-size: 2.5rem; color: #FFA500;">Featured Projects:</span>**
 
+### 🎨 <a href="https://grabar001.github.io/Portfolio/" style="font-size: 2rem; color: #4CAF50; text-decoration: none;">Portfolio</a>
+A modern portfolio website showcasing my work, built with:
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40px" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40px" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=sass" alt="SCSS" title="SCSS" width="40px" style="margin-right: 10px;">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" width="40px">
+</p>
 ---
 <p align="center">
   <img src="./animation.svg" alt="Classic Pac-Man Animation" />
@@ -39,21 +42,14 @@ A modern portfolio website showcasing my work, built with:
 ---
 
 ## 📞 **Contact Me:**
-- **Email:** grabarfamyli@gmail.com  
-- **Phone:** +33 769 730 742  
-- **LinkedIn:** [Albert Grabar](https://linkedin.com/in/albert-grabar)  
-
----
-
-## 🌍 **Find Me Online:**
 <p align="center">
+  <a href="mailto:grabarfamyli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://linkedin.com/in/albert-grabar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourtwitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Grabar001">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.instagram.com/albert_grabar/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
