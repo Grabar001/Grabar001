@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 ---
 
 ## 🌟 **Featured Projects:**
-### 🎨 [Portfolio](https://yourportfolio.com)
+### 🎨 [Portfolio](https://grabar001.github.io/Portfolio/)
 A modern portfolio website showcasing my work, built with:
 - 💻 React.js
 - 🎨 Tailwind CSS
@@ -46,6 +46,5 @@ A modern portfolio website showcasing my work, built with:
 <p align="center">
   <img src="https://github.com/Grabar001/Grabar001/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
-#### 🔗 Links:
-- 🌐 [Portfolio](https://grabar001.github.io/Portfolio/)
+
 
