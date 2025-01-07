@@ -1,4 +1,4 @@
-### Hi there, I'm Albert Grabar! 👋
+### Hi there, I'm Albert! 👋
 
 ---
 
