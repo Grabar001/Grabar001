@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+cool+projects!;Contact+me+below+for+collaboration." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+cool+projects!;CContact+me+below+for+collaboration." />
 </p>
 
 # 👋 Hi there, I'm **Albert**!  
@@ -35,14 +35,21 @@ A modern portfolio website showcasing my work, built with:
 ---
 
 ## ✨ **Dynamic Animations:**
+
+### Typing Animation:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=I+am+a+Web+Developer!;I+build+cool+projects!;Contact+me+below." />
+</p>
+
+### Geeky Matrix Animation:
 <p align="center">
   <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" alt="Matrix Animation" />
 </p>
 
+### Code Rain Animation:
 <p align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Code Rain Animation" />
 </p>
-
 ---
 
 ## 📞 **Contact Me:**
