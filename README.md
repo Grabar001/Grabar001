@@ -33,10 +33,8 @@ A modern portfolio website showcasing my work, built with:
 - 🔗 Hosted on Vercel
 
 ---
-## ✨ Cyberpunk Soldier Animation:
-
 <p align="center">
-  <img src="./animation.svg" alt="Cyberpunk Soldier Animation" />
+  <img src="./animation.svg" alt="Classic Pac-Man Animation" />
 </p>
 ---
 
