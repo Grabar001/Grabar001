@@ -36,20 +36,17 @@ A modern portfolio website showcasing my work, built with:
 
 ## ✨ **Dynamic Animations:**
 
-### Typing Animation:
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=I+am+a+Web+Developer!;I+build+cool+projects!;Contact+me+below." />
-</p>
-
 ### Geeky Matrix Animation:
 <p align="center">
-  <img src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif" alt="Matrix Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
-### Code Rain Animation:
-<p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Code Rain Animation" />
-</p>
+---
+
+### Code Animation Example:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake-dark.svg" alt="Code Animation" />
+</div>
 ---
 
 ## 📞 **Contact Me:**
