@@ -22,7 +22,7 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 ---
 
 ## 🌟 **Featured Projects:**
-### 🎨 [Portfolio](https://grabar001.github.io/Portfolio/)
+### 🎨 [Portfolio](https://yourportfolio.com)
 A modern portfolio website showcasing my work, built with:
 - 💻 React.js
 - 🎨 Tailwind CSS
@@ -30,9 +30,20 @@ A modern portfolio website showcasing my work, built with:
 
 ---
 
-## ✨ **Dynamic Animation (Typing Effect):**
+## ✨ **Dynamic Animations:**
+### Typing Animation:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+cool+projects!;Contact+me+below+for+collaboration." />
+</p>
+
+### Geeky Matrix Animation:
+<p align="center">
+  <img src="https://camo.githubusercontent.com/4b4c2c9bc7f4069917e3ac844a4e7177cd10c6cfb6b6c0e8e7c930f40b0a90f8/68747470733a2f2f692e696d6775722e636f6d2f4d614d6e434b682e676966" alt="Matrix Animation" />
+</p>
+
+### Code Rain Animation:
+<p align="center">
+  <img src="https://camo.githubusercontent.com/875e8c2d2f69a2597f6a7a05a8d09c1a76e8bcca243ef6f64c209472a109c958/68747470733a2f2f692e696d6775722e636f6d2f3646464e61382e676966" alt="Code Rain Animation" />
 </p>
 
 ---
@@ -48,6 +59,9 @@ A modern portfolio website showcasing my work, built with:
 <p align="center">
   <a href="https://linkedin.com/in/albert-grabar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourtwitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://github.com/Grabar001">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
