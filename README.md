@@ -33,37 +33,10 @@ A modern portfolio website showcasing my work, built with:
 - 🔗 Hosted on Vercel
 
 ---
+## ✨ Cyberpunk Soldier Animation:
+
 <p align="center">
-  <svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="800" height="400" fill="black" />
-
-    <!-- City skyline -->
-    <rect x="50" y="300" width="100" height="100" fill="#0ff" />
-    <rect x="200" y="250" width="150" height="150" fill="#f0f" />
-    <rect x="400" y="280" width="120" height="120" fill="#ff0" />
-    <rect x="600" y="230" width="100" height="170" fill="#0ff" />
-
-    <!-- Moving soldier -->
-    <circle cx="50" cy="320" r="15" fill="#ff004d">
-      <animate attributeName="cx" from="50" to="750" dur="5s" repeatCount="indefinite" />
-    </circle>
-    <line x1="50" y1="320" x2="60" y2="300" stroke="#ff004d" stroke-width="3">
-      <animate attributeName="x1" from="50" to="750" dur="5s" repeatCount="indefinite" />
-      <animate attributeName="x2" from="60" to="760" dur="5s" repeatCount="indefinite" />
-    </line>
-
-    <!-- Neon lights -->
-    <text x="100" y="100" font-size="40" fill="#ff00ff" font-family="monospace">
-      CYBERPUNK 2077
-      <animate attributeName="opacity" from="1" to="0.2" dur="1s" repeatCount="indefinite" />
-    </text>
-
-    <!-- Glitch Effect -->
-    <rect x="0" y="50" width="800" height="5" fill="#00ffcc">
-      <animate attributeName="x" from="0" to="800" dur="0.1s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="./cyberpunk-animation.svg" alt="Cyberpunk Soldier Animation" />
 </p>
 ---
 
