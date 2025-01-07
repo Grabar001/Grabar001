@@ -3,7 +3,7 @@
 ---
 
 #### 🛠️ Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,bootstrap,)](https://skillicons.dev)
 
 ---
 
