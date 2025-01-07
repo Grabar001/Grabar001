@@ -30,6 +30,20 @@ A modern portfolio website showcasing my work, built with:
 
 ---
 
+## ✨ **Dynamic Animation (Typing Effect):**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+cool+projects!;Contact+me+below+for+collaboration." />
+</p>
+
+---
+
+## 📞 **Contact Me:**
+- **Email:** grabarfamyli@gmail.com  
+- **Phone:** +33 769 730 742  
+- **LinkedIn:** [Albert Grabar](https://linkedin.com/in/albert-grabar)  
+
+---
+
 ## 🌍 **Find Me Online:**
 <p align="center">
   <a href="https://linkedin.com/in/albert-grabar">
@@ -39,12 +53,3 @@ A modern portfolio website showcasing my work, built with:
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🐍 **GitHub Contributions Snake:**
-<p align="center">
-  <img src="https://github.com/Grabar001/Grabar001/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-
