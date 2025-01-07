@@ -1,7 +1,6 @@
-![Demo](Deadline.gif)
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+interesting+projects!;" />
-</p>
+<div align="center" style="margin-left: 50px;">
+  <img src="Deadline.gif" alt="Demo">
+</div>
 
 # 👋 Hi there, I'm **Albert**!  
 Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves building creative and efficient solutions.
