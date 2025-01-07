@@ -36,7 +36,7 @@ A modern portfolio website showcasing my work, built with:
 ## ✨ Cyberpunk Soldier Animation:
 
 <p align="center">
-  <img src="./cyberpunk-animation.svg" alt="Cyberpunk Soldier Animation" />
+  <img src="./animation.svg" alt="Cyberpunk Soldier Animation" />
 </p>
 ---
 
