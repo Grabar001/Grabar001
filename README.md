@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+cool+projects!;CContact+me+below+for+collaboration." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=FF69B4&center=true&width=435&lines=Welcome+to+my+profile!;I+am+a+Web+Developer.;I+love+building+interesting+projects!;" />
 </p>
 
 # 👋 Hi there, I'm **Albert**!  
