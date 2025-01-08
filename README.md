@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 
 ## 🔧 **Languages and Tools:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,bootstrap,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,scss,figma,bootstrap,git" />
 </p>
 
 ---
