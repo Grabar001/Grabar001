@@ -26,7 +26,7 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 ---
 
 <div id="header" align="center">
-  <img src="h[ttps://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xrano3ZGFoZ2lyOTljcm5lcHN4ZjVmd2NtYnkzMGlhdHJodjQ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 ## 🌟 **<span style="font-size: 2.5rem; color: #FFA500;">Featured Projects:</span>**
 
