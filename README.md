@@ -28,9 +28,9 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xrano3ZGFoZ2lyOTljcm5lcHN4ZjVmd2NtYnkzMGlhdHJodjQ4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
-## 🌟 **<span align="center" style="font-size: 2.5rem; color: #FFA500;" >Featured Projects:</span>**
+## 🌟 **<span align="center" width="100" style="font-size: 2.5rem; color: #FFA500;" >Featured Projects:</span>**
 
-### 🎨 <a align="center" href="https://grabar001.github.io/Portfolio/"  style="font-size: 2rem; color: #4CAF50; text-decoration: none;">Portfolio</a>
+### 🎨 <a  href="https://grabar001.github.io/Portfolio/"  style="font-size: 2rem; color: #4CAF50; text-decoration: none;">Portfolio</a>
 A modern portfolio website showcasing my work, built with:
 <p>
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40px" style="margin-right: 10px;">
