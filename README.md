@@ -25,6 +25,9 @@ Welcome to my GitHub profile! 🚀 I am a passionate web developer who loves bui
 
 ---
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"]/>
+</div>
 ## 🌟 **<span style="font-size: 2.5rem; color: #FFA500;">Featured Projects:</span>**
 
 ### 🎨 <a href="https://grabar001.github.io/Portfolio/" style="font-size: 2rem; color: #4CAF50; text-decoration: none;">Portfolio</a>
